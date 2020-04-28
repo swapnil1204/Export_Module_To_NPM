@@ -1,0 +1,25 @@
+{
+  "name": "mathematical-operations",
+  "version": "1.0.1",
+  "description": "this module will help you out to perform some mathematical operations like sum,division,multiplication,division,square, square root and many more",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/swapnil1204/Export_Module_To_NPM.git"
+  },
+  "keywords": [
+    "sum",
+    "division",
+    "multiplication",
+    "substraction",
+    "square",
+    "square",
+    "root"
+  ],
+  "author": "Swapnil Vijaykumar Bamb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swapnil1204/Export_Module_To_NPM/issues"
+  },
+  "homepage": "https://github.com/swapnil1204/Export_Module_To_NPM#readme"
+}
