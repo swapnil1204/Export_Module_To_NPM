@@ -1,5 +1,5 @@
 {
-  "name": "mathematical-operations",
+  "name": "mathematical-operations-add",
   "version": "1.0.1",
   "description": "this module will help you out to perform some mathematical operations like sum,division,multiplication,division,square, square root and many more",
   "main": "index.js",
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/swapnil1204/Export_Module_To_NPM/issues"
   },
-  "homepage": "https://github.com/swapnil1204/Export_Module_To_NPM#readme"
+  "homepage": "https://github.com/swapnil1204/Export_Module_To_NPM#readme",
+  "dependencies": {
+    "mathematical-operations": "^1.0.1"
+  }
 }
